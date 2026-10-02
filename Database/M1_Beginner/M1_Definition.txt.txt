@@ -1,1 +1,9 @@
 Add the information
+
+What is Data?
+
+Data are the raw facts which describes the properties of an entity.
+
+What is Database?
+
+Database is a place where we are storing the data in a systematic and organised matter.
